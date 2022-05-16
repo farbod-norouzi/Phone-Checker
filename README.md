@@ -15,7 +15,7 @@ Find the details of each SIM card or phone number with this tool!
 - IOS
 
 # Plugins required
-- python
+- pip install python
 - pip install parse
 - pip install geocoder
 - pip install carrier
