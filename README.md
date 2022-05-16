@@ -8,17 +8,17 @@ Find the details of each SIM card or phone number with this tool!
 - Automatic detection of country and region
  (For landline and mobile phones)
 
-# OS Required
-- Linux
-- Android
-- Windows
-- IOS
-
 # Plugins required
 - pip install python
 - pip install parse
 - pip install geocoder
 - pip install carrier
+
+# OS Required
+- Linux
+- Android
+- Windows
+- IOS
 
 # Communication with the programmer
 - Email : norouzif556@gmail.com
