@@ -7,3 +7,19 @@ Find the details of each SIM card or phone number with this tool!
  (For landlines)
 - Automatic detection of country and region
  (For landline and mobile phones)
+
+# OS Required
+- Linux
+- Android
+- Windows
+- IOS
+
+# Plugins required
+- python
+- pip install parse
+- pip install geocoder
+- pip install carrier
+
+# Communication with the programmer
+- Email : rsepineal@gmail.com
+- Telegram : https://t.me/farbod_mi & https://t.me/farbod_mi1
