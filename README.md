@@ -21,5 +21,5 @@ Find the details of each SIM card or phone number with this tool!
 - pip install carrier
 
 # Communication with the programmer
-- Email : rsepineal@gmail.com
+- Email : norouzif556@gmail.com
 - Telegram : https://t.me/farbod_mi & https://t.me/farbod_mi1
