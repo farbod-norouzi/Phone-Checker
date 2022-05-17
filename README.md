@@ -13,6 +13,10 @@ Find the details of each SIM card or phone number with this tool!
 - pip install parse
 - pip install geocoder
 - pip install carrier
+- pip install os
+- pip install colorama
+- pip install random
+- pip install time
 
 # OS Required
 - Linux
