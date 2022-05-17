@@ -1,27 +1,24 @@
+import os
 from os import system
-    
-# Check the requirements
-try:
-    from phonenumbers import parse
-    from phonenumbers import geocoder
-    from phonenumbers import carrier
-    import datetime
-    from colorama import Fore
-    import random
-    from tqdm import tqdm
-    import time
-except ImportError:
-    system("pip install phonenumbers ")
-    system("pip install os ")
-    system("pip install datetime ")
-    system("pip install colorama ")
-    system("pip install random ")
-    system("pip install tqdm ")
-    system("pip install time ")
-    exit("\n\nRun script Again")
+import datetime
+from phonenumbers import parse
+from phonenumbers import geocoder
+from phonenumbers import carrier
+from colorama import Fore
+import random
+from tqdm import tqdm
+import time
+import platform 
 
-# Start APP   
-os.system("cls")
+# Start APP
+def clear():
+   result = platform.uname()[0]
+   if result == "Windows":
+      system("cls")
+   elif result == "Linux":
+      system("clear")
+clear()
+
 print(Fore.RED+ """______________                         ______________            ______              
 ___  __ \__  /___________________      __  ____/__  /_______________  /______________
 __  /_/ /_  __ \  __ \_  __ \  _ \     _  /    __  __ \  _ \  ___/_  //_/  _ \_  ___/
