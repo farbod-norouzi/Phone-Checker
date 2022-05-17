@@ -1,10 +1,10 @@
+from os import system
+    
 # Check the requirements
 try:
     from phonenumbers import parse
     from phonenumbers import geocoder
     from phonenumbers import carrier
-    import os
-    from os import system
     import datetime
     from colorama import Fore
     import random
