@@ -1,6 +1,9 @@
 # Phone-Checker
 Find the details of each SIM card or phone number with this tool!
 
+# Attention
+* Note that be sure to install libraries from the "Required plugins" section so that you do not have any problems running the program! *
+
 # Capabilities
 - Automatic detection of SIM card operator
 - Automatic contact area detection
